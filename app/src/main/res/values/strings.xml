@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">AOAS</string>
+    <string name="action_settings">Settings</string>
+    <string name="company">Company Login</string>
+    <string name="person">Employee Login</string>
+    <string name="title_activity_login">Return to Login In</string>
+    <string name="punch_in">Start Working</string>
+    <string name="punch_out">End Working</string>
+    <string name="lunch_out">Lunch Out</string>
+    <string name="lunch_back">Lunch Back</string>
+    <string name="send_signal">SendSignal</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign In</string>
+    <string name="action_sign_in_short">Sign In</string>
+    <string name="error_invalid_email">Invalid Email</string>
+    <string name="error_invalid_password">Invalid Password</string>
+    <string name="error_incorrect_password">Incorrect Password</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_punch">Punch</string>
+    <string name="title_activity_company_select">Select an activity</string>
+    <string name="title_activity_employee">EmployeeActivity</string>
+    <string name="title_activity_bt_server_controller">Turn on/off your server</string>
+
+    <!-- Strings related to bluetooth server control -->
+    <string name="company_uuid">Company UUID</string>
+    <string name="switch_signal">Turn On</string>
+    <string name="advertise_status">Advertising: Off</string>
+    <string name="title_activity_tab">TabActivity</string>
+    <string name="title_activity_time_sheet">TimeSheet</string>
+    <string name="title_activity_payroll">Payroll</string>
+    <string name="emp_log_out">Log out</string>
+    <string name="cmp_log_out">Log out</string>
+    <string name="company_name">Unregistered company</string>
+
+</resources>
